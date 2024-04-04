@@ -1,4 +1,4 @@
-package inheritance.Task2;
+package runtimeSchool.inheritance.Task2;
 
 public class VehicleTypeByPurpose extends VehicleType{
     public VehicleTypeByPurpose() {

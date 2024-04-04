@@ -1,4 +1,4 @@
-package inheritance.Task1;
+package runtimeSchool.inheritance.Task1;
 
 public class FromBorrowedStatus extends BookMover {
     public void moveToStatus(Book book, Status requestedStatus) {

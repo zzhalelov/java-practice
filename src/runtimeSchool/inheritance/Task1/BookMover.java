@@ -1,4 +1,4 @@
-package inheritance.Task1;
+package runtimeSchool.inheritance.Task1;
 
 //класс BookMover с дефолтной реализацией метода moveToStatus
 public class BookMover {

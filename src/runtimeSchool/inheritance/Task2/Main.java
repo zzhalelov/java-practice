@@ -1,4 +1,4 @@
-package inheritance.Task2;
+package runtimeSchool.inheritance.Task2;
 //Необходимо спроектировать приложение по размещению объявлений о продаже автомобилей. Функционал пригодится в случае массовой фильтрации объявлений по какому-то искомому типу
 //It is necessary to design an application for placing ads for the sale of cars. The functionality is useful in the case of mass filtering of ads by some type of search
 public class Main {

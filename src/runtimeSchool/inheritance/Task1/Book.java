@@ -1,4 +1,4 @@
-package inheritance.Task1;
+package runtimeSchool.inheritance.Task1;
 
 public class Book {
     String title;
