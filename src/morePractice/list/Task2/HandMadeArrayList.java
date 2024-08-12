@@ -1,4 +1,4 @@
-package runtimeSchool.list.Task2;
+package morePractice.list.Task2;
 
 public class HandMadeArrayList<T> {
 

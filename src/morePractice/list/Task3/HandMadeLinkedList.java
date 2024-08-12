@@ -1,4 +1,4 @@
-package runtimeSchool.list.Task3;
+package morePractice.list.Task3;
 
 import java.util.NoSuchElementException;
 

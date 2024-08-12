@@ -1,6 +1,4 @@
-package runtimeSchool.map.task4;
-
-import com.sun.source.tree.BreakTree;
+package morePractice.map.task4;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -8,8 +6,8 @@ import java.util.List;
 import java.util.Map;
 
 public class Practice {
-    private static List<User> users = new ArrayList<>();
-    private static Map<Long, User> userMap = new HashMap<>();
+    private final static List<User> users = new ArrayList<>();
+    private final static Map<Long, User> userMap = new HashMap<>();
 
     public static void main(String[] args) {
         // создадим 1 миллион пользователей
